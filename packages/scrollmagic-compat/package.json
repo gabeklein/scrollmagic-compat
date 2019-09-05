@@ -1,6 +1,6 @@
 {
   "name": "scrollmagic-compat",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Webpack compatable distrobution of scrollmagic and gsap.",
   "author": {
     "name": "Gabe Klein",
