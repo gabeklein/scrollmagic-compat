@@ -1,0 +1,22 @@
+{
+  "name": "scrollmagic-react",
+  "version": "0.0.1",
+  "description": "Scrollmagic and gsap made easier to use in React applications.",
+  "author": {
+    "name": "Gabe Klein",
+    "email": "gabe@termtm.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "gsap": "^2.0.2",
+    "scrollmagic": "^2.0.6",
+    "scrollmagic-compay": "^0.0.1"
+  }
+}

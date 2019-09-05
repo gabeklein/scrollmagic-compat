@@ -1,0 +1,7 @@
+{
+  "name": "scrollmagic-compat",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.4"
+  }
+}

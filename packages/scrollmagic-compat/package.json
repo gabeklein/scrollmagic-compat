@@ -1,0 +1,29 @@
+{
+  "name": "scrollmagic-compat",
+  "version": "0.0.1",
+  "description": "Webpack compatable distrobution of scrollmagic and gsap.",
+  "author": {
+    "name": "Gabe Klein",
+    "email": "gabe@termtm.com"
+  },
+  "scripts": {
+    "install": "webpack"
+  },
+  "module": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js",
+    "webpack.config.js"
+  ],
+  "dependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "peerDependancies": {
+    "gsap": "^2.0.2",
+    "scrollmagic": "^2.0.6"
+  }
+}
