@@ -17,6 +17,7 @@
   "dependencies": {
     "gsap": "^2.0.2",
     "scrollmagic": "^2.0.6",
-    "scrollmagic-compat": "^0.0.1"
+    "scrollmagic-compat": "^0.0.1",
+    "react": "^16.8.0"
   }
 }
