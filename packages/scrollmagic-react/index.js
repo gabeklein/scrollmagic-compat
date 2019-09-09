@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { TimelineLite } from "gsap";
+import TimelineLite from "gsap/TimelineLite";
 
 import ScrollMagic from "scrollmagic-compat"
 
